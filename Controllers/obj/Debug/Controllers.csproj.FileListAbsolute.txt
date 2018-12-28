@@ -1,0 +1,16 @@
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\Controllers.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\Entidades.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\Entidades.pdb
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache

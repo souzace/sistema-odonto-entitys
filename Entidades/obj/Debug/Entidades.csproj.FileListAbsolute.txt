@@ -1,0 +1,6 @@
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fabio Souza\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.pdb
